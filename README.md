@@ -7,6 +7,7 @@ Leetcode questions
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0009-palindrome-number) |
 | [0507-perfect-number](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0507-perfect-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Bit Manipulation
