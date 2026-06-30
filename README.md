@@ -19,6 +19,7 @@ Leetcode questions
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/1480-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/1929-concatenation-of-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/2798-number-of-employees-who-met-the-target) |
 ## Prefix Sum
@@ -34,4 +35,8 @@ Leetcode questions
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0412-fizz-buzz) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
