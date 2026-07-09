@@ -12,6 +12,7 @@ Leetcode questions
 | [0507-perfect-number](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0507-perfect-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2769-find-the-maximum-achievable-number](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/2769-find-the-maximum-achievable-number) |
 ## Bit Manipulation
 |  |
 | ------- |
