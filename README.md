@@ -27,6 +27,7 @@ Leetcode questions
 | [1672-richest-customer-wealth](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/1929-concatenation-of-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/2798-number-of-employees-who-met-the-target) |
+| [3866-first-unique-even-element](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/3866-first-unique-even-element) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -48,6 +49,7 @@ Leetcode questions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0001-two-sum) |
+| [3866-first-unique-even-element](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/3866-first-unique-even-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -64,4 +66,8 @@ Leetcode questions
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0287-find-the-duplicate-number) |
+## Counting
+|  |
+| ------- |
+| [3866-first-unique-even-element](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/3866-first-unique-even-element) |
 <!---LeetCode Topics End-->
