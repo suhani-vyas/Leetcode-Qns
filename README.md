@@ -16,11 +16,13 @@ Leetcode questions
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0287-find-the-duplicate-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0001-two-sum) |
+| [0287-find-the-duplicate-number](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0287-find-the-duplicate-number) |
 | [1480-running-sum-of-1d-array](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/1929-concatenation-of-array) |
@@ -46,4 +48,20 @@ Leetcode questions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0001-two-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0287-find-the-duplicate-number) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
