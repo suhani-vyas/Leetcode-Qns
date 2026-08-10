@@ -27,6 +27,7 @@ Leetcode questions
 | [1480-running-sum-of-1d-array](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/1929-concatenation-of-array) |
+| [1991-find-the-middle-index-in-array](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/1991-find-the-middle-index-in-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3866-first-unique-even-element](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/3866-first-unique-even-element) |
 ## Prefix Sum
@@ -34,6 +35,7 @@ Leetcode questions
 | ------- |
 | [0724-find-pivot-index](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/1480-running-sum-of-1d-array) |
+| [1991-find-the-middle-index-in-array](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/1991-find-the-middle-index-in-array) |
 ## Simulation
 |  |
 | ------- |
