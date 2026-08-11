@@ -23,6 +23,7 @@ Leetcode questions
 | ------- |
 | [0001-two-sum](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0169-majority-element) |
 | [0287-find-the-duplicate-number](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0287-find-the-duplicate-number) |
 | [0724-find-pivot-index](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/1480-running-sum-of-1d-array) |
@@ -54,6 +55,7 @@ Leetcode questions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0169-majority-element) |
 | [3866-first-unique-even-element](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/3866-first-unique-even-element) |
 ## Two Pointers
 |  |
@@ -74,13 +76,23 @@ Leetcode questions
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0169-majority-element) |
 | [3866-first-unique-even-element](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/3866-first-unique-even-element) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0053-maximum-subarray) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
