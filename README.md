@@ -16,6 +16,7 @@ Leetcode questions
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0287-find-the-duplicate-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Array
@@ -23,6 +24,7 @@ Leetcode questions
 | ------- |
 | [0001-two-sum](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0053-maximum-subarray) |
+| [0136-single-number](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0169-majority-element) |
 | [0287-find-the-duplicate-number](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0485-max-consecutive-ones) |
