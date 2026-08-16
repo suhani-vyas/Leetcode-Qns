@@ -8,6 +8,7 @@ Leetcode questions
 | ------- |
 | [0007-reverse-integer](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0048-rotate-image) |
 | [0412-fizz-buzz](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0507-perfect-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -23,6 +24,7 @@ Leetcode questions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0001-two-sum) |
+| [0048-rotate-image](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0169-majority-element) |
@@ -56,6 +58,7 @@ Leetcode questions
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0048-rotate-image) |
 | [0867-transpose-matrix](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0867-transpose-matrix) |
 | [1672-richest-customer-wealth](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
