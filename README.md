@@ -30,6 +30,7 @@ Leetcode questions
 | [0287-find-the-duplicate-number](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0724-find-pivot-index) |
+| [0867-transpose-matrix](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0867-transpose-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/1929-concatenation-of-array) |
@@ -46,6 +47,7 @@ Leetcode questions
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0412-fizz-buzz) |
+| [0867-transpose-matrix](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/1929-concatenation-of-array) |
 ## String
 |  |
@@ -54,6 +56,7 @@ Leetcode questions
 ## Matrix
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0867-transpose-matrix) |
 | [1672-richest-customer-wealth](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
 |  |
