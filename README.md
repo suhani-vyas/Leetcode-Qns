@@ -31,6 +31,7 @@ Leetcode questions
 | [0229-majority-element-ii](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0485-max-consecutive-ones) |
+| [0704-binary-search](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0724-find-pivot-index) |
 | [0867-transpose-matrix](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0867-transpose-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/1480-running-sum-of-1d-array) |
@@ -76,6 +77,7 @@ Leetcode questions
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0287-find-the-duplicate-number) |
+| [0704-binary-search](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0704-binary-search) |
 ## Pigeonhole Principle
 |  |
 | ------- |
