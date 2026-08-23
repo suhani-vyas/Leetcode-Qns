@@ -27,6 +27,7 @@ Leetcode questions
 | [0033-search-in-rotated-sorted-array](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0229-majority-element-ii) |
@@ -105,6 +106,7 @@ Leetcode questions
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Sorting
 |  |
 | ------- |
