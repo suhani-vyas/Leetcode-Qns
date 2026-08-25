@@ -25,6 +25,7 @@ Leetcode questions
 | ------- |
 | [0001-two-sum](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -81,6 +82,7 @@ Leetcode questions
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0035-search-insert-position) |
 | [0287-find-the-duplicate-number](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0852-peak-index-in-a-mountain-array) |
