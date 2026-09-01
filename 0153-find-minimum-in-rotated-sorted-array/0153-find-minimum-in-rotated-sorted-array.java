@@ -10,11 +10,13 @@ class Solution {
                 // min is on the right
                 start = mid + 1;
             } else {
-                // min is at mid or on the left
+                // min is at mid or in left half
                 end = mid;
             }
         }
 
-        return nums[start];
+       
+        return nums[start]; // or also return[end]
+        //as both lie on the min index when our loop ends
     }
 }
