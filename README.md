@@ -44,6 +44,7 @@ Leetcode questions
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/1480-running-sum-of-1d-array) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1672-richest-customer-wealth](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/1991-find-the-middle-index-in-array) |
@@ -94,6 +95,7 @@ Leetcode questions
 | [0852-peak-index-in-a-mountain-array](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Pigeonhole Principle
 |  |
 | ------- |
