@@ -35,6 +35,7 @@ Leetcode questions
 | [0136-single-number](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0287-find-the-duplicate-number) |
@@ -80,6 +81,7 @@ Leetcode questions
 | ------- |
 | [0001-two-sum](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0268-missing-number) |
 | [3866-first-unique-even-element](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/3866-first-unique-even-element) |
@@ -129,6 +131,7 @@ Leetcode questions
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0268-missing-number) |
 ## Boyer–Moore Majority Vote Algorithm
