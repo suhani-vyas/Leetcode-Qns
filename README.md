@@ -9,6 +9,7 @@ Leetcode questions
 | [0007-reverse-integer](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0048-rotate-image) |
+| [0268-missing-number](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0507-perfect-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -18,6 +19,7 @@ Leetcode questions
 |  |
 | ------- |
 | [0136-single-number](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0287-find-the-duplicate-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Array
@@ -34,6 +36,7 @@ Leetcode questions
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0704-binary-search) |
@@ -78,6 +81,7 @@ Leetcode questions
 | [0001-two-sum](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0268-missing-number) |
 | [3866-first-unique-even-element](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/3866-first-unique-even-element) |
 ## Two Pointers
 |  |
@@ -90,6 +94,7 @@ Leetcode questions
 | [0035-search-insert-position](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -125,6 +130,7 @@ Leetcode questions
 | ------- |
 | [0169-majority-element](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0268-missing-number) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
