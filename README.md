@@ -148,4 +148,8 @@ Leetcode questions
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0852-peak-index-in-a-mountain-array) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
