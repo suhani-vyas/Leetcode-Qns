@@ -151,5 +151,6 @@ Leetcode questions
 ## Database
 |  |
 | ------- |
+| [0584-find-customer-referee](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0584-find-customer-referee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
