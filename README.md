@@ -42,6 +42,7 @@ Leetcode questions
 | [0268-missing-number](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0485-max-consecutive-ones) |
+| [0540-single-element-in-a-sorted-array](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -102,6 +103,7 @@ Leetcode questions
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0287-find-the-duplicate-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0875-koko-eating-bananas) |
