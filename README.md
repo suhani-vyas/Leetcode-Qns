@@ -55,6 +55,7 @@ Leetcode questions
 | [1480-running-sum-of-1d-array](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1672-richest-customer-wealth](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/1672-richest-customer-wealth) |
+| [1710-maximum-units-on-a-truck](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/1710-maximum-units-on-a-truck) |
 | [1929-concatenation-of-array](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/1991-find-the-middle-index-in-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -143,6 +144,7 @@ Leetcode questions
 | [0217-contains-duplicate](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0268-missing-number) |
+| [1710-maximum-units-on-a-truck](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/1710-maximum-units-on-a-truck) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -162,4 +164,8 @@ Leetcode questions
 |  |
 | ------- |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Greedy
+|  |
+| ------- |
+| [1710-maximum-units-on-a-truck](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/1710-maximum-units-on-a-truck) |
 <!---LeetCode Topics End-->
