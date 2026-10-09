@@ -48,6 +48,7 @@ Leetcode questions
 | [0852-peak-index-in-a-mountain-array](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0875-koko-eating-bananas) |
+| [0904-fruit-into-baskets](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -95,6 +96,7 @@ Leetcode questions
 | [0217-contains-duplicate](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0268-missing-number) |
+| [0904-fruit-into-baskets](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0904-fruit-into-baskets) |
 | [3866-first-unique-even-element](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/3866-first-unique-even-element) |
 ## Two Pointers
 |  |
@@ -170,6 +172,7 @@ Leetcode questions
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0904-fruit-into-baskets](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Greedy
