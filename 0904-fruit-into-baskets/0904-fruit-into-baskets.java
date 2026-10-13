@@ -17,17 +17,9 @@ class Solution {
                 // Move the left pointer forward
                 start++;
         }
-             // Update answer only for exactly k distinct characters
-            
-                maxlen = Math.max(maxlen, end - start + 1);
-            
-
-            end++;
+             maxlen=Math.max(maxlen, end-start+1);
+             end++;
         }
-
-             //end++;end - start + 1 is current window ki length
-             //maxlen - ab tak mili sabse badi valid window length
-        
         return maxlen;
         }
        
