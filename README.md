@@ -82,6 +82,7 @@ Leetcode questions
 | [0003-longest-substring-without-repeating-characters](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0412-fizz-buzz](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0424-longest-repeating-character-replacement) |
+| [1143-longest-common-subsequence](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/1143-longest-common-subsequence) |
 ## Matrix
 |  |
 | ------- |
@@ -146,6 +147,7 @@ Leetcode questions
 | ------- |
 | [0053-maximum-subarray](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1143-longest-common-subsequence](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/1143-longest-common-subsequence) |
 ## Sorting
 |  |
 | ------- |
@@ -182,4 +184,8 @@ Leetcode questions
 |  |
 | ------- |
 | [1710-maximum-units-on-a-truck](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/1710-maximum-units-on-a-truck) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
