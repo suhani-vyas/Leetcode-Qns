@@ -44,6 +44,7 @@ Leetcode questions
 | [0300-longest-increasing-subsequence](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0300-longest-increasing-subsequence) |
 | [0485-max-consecutive-ones](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0540-single-element-in-a-sorted-array) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0704-binary-search](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -150,6 +151,7 @@ Leetcode questions
 | [0053-maximum-subarray](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0300-longest-increasing-subsequence](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0300-longest-increasing-subsequence) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/1143-longest-common-subsequence) |
 ## Sorting
 |  |
@@ -195,4 +197,13 @@ Leetcode questions
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0300-longest-increasing-subsequence) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Segment Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0673-number-of-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
