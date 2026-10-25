@@ -24,17 +24,17 @@ class Solution {
             }
         }
 
-        int maxLen = 0;
+        int maxlen = 0;
         int ans = 0;
 
-        for (int i = 0; i < n; i++) {
-            if (dp[i] > maxLen) {
-                maxLen = dp[i];
-                ans = count[i];
-            } else if (dp[i] == maxLen) {
-                ans += count[i];
-            }
+      for(int i=0;i<n;i++){
+        if(dp[i]>maxlen){
+            maxlen=dp[i];
+            ans=count[i];
+        } else if(dp[i]==maxlen){
+            ans+=count[i];
         }
+      }
 
         return ans;
     }
