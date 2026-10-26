@@ -44,6 +44,7 @@ Leetcode questions
 | [0300-longest-increasing-subsequence](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0300-longest-increasing-subsequence) |
 | [0485-max-consecutive-ones](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0540-single-element-in-a-sorted-array) |
+| [0643-maximum-average-subarray-i](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0643-maximum-average-subarray-i) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0704-binary-search](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0724-find-pivot-index) |
@@ -182,6 +183,7 @@ Leetcode questions
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0424-longest-repeating-character-replacement) |
+| [0643-maximum-average-subarray-i](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
