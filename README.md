@@ -83,6 +83,7 @@ Leetcode questions
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0344-reverse-string](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0424-longest-repeating-character-replacement) |
 | [1143-longest-common-subsequence](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/1143-longest-common-subsequence) |
@@ -108,6 +109,7 @@ Leetcode questions
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0287-find-the-duplicate-number) |
+| [0344-reverse-string](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0344-reverse-string) |
 ## Binary Search
 |  |
 | ------- |
