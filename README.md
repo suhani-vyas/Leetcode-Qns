@@ -9,6 +9,7 @@ Leetcode questions
 | [0007-reverse-integer](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0507-perfect-number) |
@@ -154,6 +155,7 @@ Leetcode questions
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0300-longest-increasing-subsequence](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0300-longest-increasing-subsequence) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -212,4 +214,8 @@ Leetcode questions
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
