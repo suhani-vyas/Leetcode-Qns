@@ -14,6 +14,7 @@ Leetcode questions
 | [0412-fizz-buzz](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/1137-n-th-tribonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2235-add-two-integers](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/2235-add-two-integers) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -161,6 +162,7 @@ Leetcode questions
 | [0300-longest-increasing-subsequence](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0300-longest-increasing-subsequence) |
 | [0509-fibonacci-number](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0509-fibonacci-number) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [1137-n-th-tribonacci-number](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/1143-longest-common-subsequence) |
 ## Sorting
 |  |
@@ -221,6 +223,7 @@ Leetcode questions
 | ------- |
 | [0070-climbing-stairs](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/1137-n-th-tribonacci-number) |
 ## Recursion
 |  |
 | ------- |
