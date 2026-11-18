@@ -93,6 +93,7 @@ Leetcode questions
 | [0557-reverse-words-in-a-string-iii](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0709-to-lower-case) |
 | [1143-longest-common-subsequence](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/1143-longest-common-subsequence) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Matrix
 |  |
@@ -111,6 +112,7 @@ Leetcode questions
 | [0268-missing-number](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0904-fruit-into-baskets) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3866-first-unique-even-element](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/3866-first-unique-even-element) |
 ## Two Pointers
 |  |
@@ -199,6 +201,7 @@ Leetcode questions
 | [0643-maximum-average-subarray-i](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/1004-max-consecutive-ones-iii) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Greedy
