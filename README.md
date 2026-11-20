@@ -55,6 +55,7 @@ Leetcode questions
 | [0867-transpose-matrix](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -72,6 +73,7 @@ Leetcode questions
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0724-find-pivot-index) |
+| [0930-binary-subarrays-with-sum](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/1480-running-sum-of-1d-array) |
@@ -112,6 +114,7 @@ Leetcode questions
 | [0268-missing-number](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0930-binary-subarrays-with-sum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3866-first-unique-even-element](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/3866-first-unique-even-element) |
 ## Two Pointers
@@ -200,6 +203,7 @@ Leetcode questions
 | [0424-longest-repeating-character-replacement](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/suhani-vyas/Leetcode-Qns/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
